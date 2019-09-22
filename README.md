@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/cocoapods/l/AFNetworking.svg)](./LICENSE)
  
 This project implement the Game of Lights Out.  
-Explanation : https://ok97465.github.io/2019/04/190421_LightsOutPuzzle
+Explanation : https://ok97465.github.io/2019/04/190421_LightsOutPuzzle  
 Reference : https://github.com/pmneila/Lights-Out
 
 
