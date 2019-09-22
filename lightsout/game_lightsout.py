@@ -1,4 +1,8 @@
-"""Light Out Game Main."""
+"""Light Out Game Main.
+
+Explanation : https://ok97465.github.io/2019/04/190421_LightsOutPuzzle
+"""
+
 # Standard library imports
 import sys
 
